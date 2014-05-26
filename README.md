@@ -34,4 +34,5 @@ echo \vova07\control\Widget::widget([
             'visible' => true
         ]
     ]
-]);```
+]);
+```
