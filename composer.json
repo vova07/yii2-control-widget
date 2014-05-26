@@ -10,6 +10,10 @@
             "email": "bazillio07@yandex.ru"
         }
     ],
+    "support": {
+        "issues": "https://github.com/vova07/yii2-control-widget/issues?state=open",
+        "source": "https://github.com/vova07/yii2-control-widget"
+    },
     "require": {
         "yiisoft/yii2": "*"
     },
