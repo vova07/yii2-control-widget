@@ -2,7 +2,7 @@
     "name": "vova07/yii2-control-widget",
     "description": "The control widget for Yii framework backend.",
     "type": "yii2-extension",
-    "keywords": ["yii2", "control", "widget"],
+    "keywords": ["yii2", "yii 2", "control", "widget"],
     "license": "BSD-3-Clause",
     "authors": [
         {
